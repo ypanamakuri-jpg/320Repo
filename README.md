@@ -1,1 +1,2 @@
-# 320Repo
+# Repository for git setup, Yashaswi Panamakuri
+
